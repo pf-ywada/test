@@ -2,4 +2,4 @@ test
 test02
 test03
 test04
-local add 02
+local add 04
